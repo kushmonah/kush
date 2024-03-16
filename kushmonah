@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Kushmonah Research</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to Kushmonah Research</h1>
+        <nav>
+            <ul>
+                <li><a href="about.html">About Us</a></li>
+                <li><a href="research.html">Our Research</a></li>
+                <li><a href="contact.html">Contact Us</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section>
+            <h2>Our Mission</h2>
+            <p>To conduct and disseminate high-quality research that contributes to global knowledge and informs policy-making and public debate.</p>
+        </section>
+        <section>
+            <h2>Latest Research</h2>
+            <!-- Add content here -->
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Kushmonah Research</p>
+    </footer>
+</body>
+</html>
